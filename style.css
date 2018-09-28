@@ -1,0 +1,18 @@
+.parent{
+  display:flex;
+  flex-direction: center;
+  justify-content: center;
+}
+.child{
+  margin:2%;
+  border:2px solid #ddd;
+  padding:2%;
+  width:20%;
+}
+.child audio{
+width:100%;
+
+}
+.child video{
+  width:100%;
+}
